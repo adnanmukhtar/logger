@@ -1,0 +1,19 @@
+{
+    "name": "adnanmukhtar/logger",
+    "description": "log data like device name ip address etc",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adnan",
+            "email": "adnan@taaruff.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Adnanmukhtar\\Logger\\": "src/"
+        }
+    },
+}
